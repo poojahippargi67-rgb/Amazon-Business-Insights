@@ -1,0 +1,13 @@
+AMAZON BUSINESS INSIGHTS
+========================
+Total Products: 1465
+Average Rating: 4.10
+Average Discount: 47.69%
+
+Top 5 Product Categories:
+category
+Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables    233
+Electronics|WearableTechnology|SmartWatches                                           76
+Electronics|Mobiles&Accessories|Smartphones&BasicMobiles|Smartphones                  68
+Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions                         63
+Electronics|Headphones,Earbuds&Accessories|Headphones|In-Ear                          52
